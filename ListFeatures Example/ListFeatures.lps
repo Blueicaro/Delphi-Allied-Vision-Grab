@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="ListFeatures.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="3" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../librerias/AlliedVision/vimbac.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="VimbaC"/>
+        <UsageCount Value="20"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../librerias/AlliedVision/vmbcommontypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="VmbCommonTypes"/>
+        <UsageCount Value="20"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../AlliedVision/vimbac.pas"/>
+        <UnitName Value="VimbaC"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="37" Y="218"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="../AlliedVision/vimbac.pas"/>
+        <Caret Line="216" Column="3" TopLine="194"/>
+      </Position1>
+      <Position2>
+        <Filename Value="../AlliedVision/vimbac.pas"/>
+        <Caret Line="217" Column="4" TopLine="194"/>
+      </Position2>
+      <Position3>
+        <Filename Value="../AlliedVision/vimbac.pas"/>
+        <Caret Line="213" Column="37" TopLine="194"/>
+      </Position3>
+      <Position4>
+        <Filename Value="../AlliedVision/vimbac.pas"/>
+        <Caret Line="217" TopLine="197"/>
+      </Position4>
+      <Position5>
+        <Filename Value="../AlliedVision/vimbac.pas"/>
+        <Caret Line="219" TopLine="199"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
